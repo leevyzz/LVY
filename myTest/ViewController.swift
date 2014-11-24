@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         // Just add a comments.
-        // Just for test.aa
+        // Just for test.
     }
 
 
